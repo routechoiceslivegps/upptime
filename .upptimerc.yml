@@ -1,36 +1,31 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: routechoices
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Routechoices 
+    url: https://www.routechoices.com
+  - name: API
+    url: https://api.routechoices.com/time?format=json
+  - name: App Location Posting Gateway
+    url: https://api.routechoices.com/locations
+    method: POST
+    headers:
+    - "Authorization: Bearer $LOCATION_POSTING_API_KEY"
+    - "Content-Type: application/json"
+    body: '{"device_id": "71588519", "longitudes": "", "latitudes": "", "timestamps": ""}'
+  - name: WMS Tile Server
+    url: https://wms.routechoices.com/?service=WMS&request=GetMap&layers=fhDbzlQSLho&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&width=512&height=512&srs=EPSG%3A3857&bbox=2641663.6975356913,8727274.141488286,2661231.576776697,8746842.020729292
+  - name: TCP Server
+    url: routechoices.com
+    port: 2002
     check: "tcp-ping"
-    ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.routechoices.com
+  logoUrl: https://cdn.routechoic.es/icon-512.png
+  name: Routechoices.com Status
+  introTitle: "**Routechoices.com** is an easy to use and powerful live GPS tracking solution designed for orienteering and outdoor events."
+  introMessage: This page show you in **real-time** the status of our online services
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
