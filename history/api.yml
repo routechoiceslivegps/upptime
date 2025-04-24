@@ -1,7 +1,7 @@
 url: https://api.routechoices.com/time?format=json
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2025-04-23T23:13:36.528Z
+status: down
+code: 502
+responseTime: 803
+lastUpdated: 2025-04-24T05:40:28.705Z
 startTime: 2025-04-21T05:53:15.574Z
 generator: Upptime <https://github.com/upptime/upptime>
