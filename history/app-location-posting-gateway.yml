@@ -1,7 +1,7 @@
 url: https://api.routechoices.com/locations
-status: up
-code: 201
-responseTime: 146
-lastUpdated: 2025-04-24T05:49:51.488Z
+status: down
+code: 405
+responseTime: 115
+lastUpdated: 2025-04-24T07:56:18.108Z
 startTime: 2025-04-21T05:53:16.701Z
 generator: Upptime <https://github.com/upptime/upptime>
