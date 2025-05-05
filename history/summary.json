@@ -1,25 +1,21 @@
 [
   {
-    "name": "Routechoices",
+    "name": "Website",
     "url": "https://www.routechoices.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.routechoices.com.ico",
-    "slug": "routechoices",
+    "slug": "website",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 830,
-    "timeDay": 829,
-    "timeWeek": 821,
-    "timeMonth": 830,
-    "timeYear": 830,
-    "dailyMinutesDown": {
-      "2025-05-05": 1,
-      "2025-04-24": 3,
-      "2025-04-23": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -32,36 +28,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 660,
-    "timeDay": 776,
-    "timeWeek": 672,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "time": 654,
+    "timeDay": 647,
+    "timeWeek": 653,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-04-24": 3,
       "2025-04-23": 3
-    }
-  },
-  {
-    "name": "App Location Posting Gateway",
-    "url": "https://api.routechoices.com/locations",
-    "icon": "https://icons.duckduckgo.com/ip3/api.routechoices.com.ico",
-    "slug": "app-location-posting-gateway",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "97.53%",
-    "time": 159,
-    "timeDay": 198,
-    "timeWeek": 167,
-    "timeMonth": 159,
-    "timeYear": 159,
-    "dailyMinutesDown": {
-      "2025-04-24": 4,
-      "2025-04-23": 153,
-      "2025-04-22": 346
     }
   },
   {
@@ -75,15 +49,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 779,
-    "timeDay": 923,
-    "timeWeek": 828,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 774,
+    "timeDay": 791,
+    "timeWeek": 807,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-04-24": 4,
       "2025-04-23": 3
     }
+  },
+  {
+    "name": "Apps Location Gateway",
+    "url": "https://api.routechoices.com/locations",
+    "icon": "https://icons.duckduckgo.com/ip3/api.routechoices.com.ico",
+    "slug": "apps-location-gateway",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TCP Server",
@@ -96,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 172,
-    "timeWeek": 145,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 142,
+    "timeDay": 143,
+    "timeWeek": 141,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
