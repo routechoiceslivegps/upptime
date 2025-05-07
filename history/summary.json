@@ -4,17 +4,17 @@
     "url": "https://www.routechoices.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.routechoices.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "99.82%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 774,
-    "timeDay": 722,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "time": 755,
+    "timeDay": 699,
+    "timeWeek": 755,
+    "timeMonth": 755,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-05-07": 2
     }
