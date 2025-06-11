@@ -1,7 +1,7 @@
 url: https://api.routechoices.com/healthcheck/?format=json
 status: up
 code: 200
-responseTime: 1064
-lastUpdated: 2025-06-11T17:16:24.080Z
+responseTime: 719
+lastUpdated: 2025-06-11T23:14:54.669Z
 startTime: 2025-04-21T05:53:15.574Z
 generator: Upptime <https://github.com/upptime/upptime>
