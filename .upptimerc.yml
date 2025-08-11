@@ -17,7 +17,7 @@ status-website:
   cname: status.routechoices.com
   logoUrl: https://cdn.routechoic.es/icon-512.png
   name: Routechoices.com status
-  introTitle: "**Routechoices.com** is an easy to use and powerful live GPS tracking solution designed for orienteering and outdoor events."
+  introTitle: "**Routechoices** is an easy-to-use yet powerful live GPS tracking platform designed for orienteering and outdoor sports enthusiasts."
   introMessage: This page show you in **real-time** the status of our online services
   navbar:
     - title: Status
