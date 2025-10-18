@@ -40,7 +40,7 @@
     "url": "https://api.routechoices.com/healthcheck/?format=json",
     "icon": "https://icons.duckduckgo.com/ip3/api.routechoices.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "99.68%",
     "uptimeWeek": "99.95%",
