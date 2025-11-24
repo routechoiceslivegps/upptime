@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Website
-    url: https://www.routechoices.com/
+    url: https://status.routechoices.com/
   - name: API
     url: https://api.routechoices.com/healthcheck/?format=json
   - name: WMS Tile Server
