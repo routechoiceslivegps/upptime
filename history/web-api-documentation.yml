@@ -1,7 +1,7 @@
 url: https://api.routechoices.com/healthcheck/?format=json
 status: down
 code: 502
-responseTime: 542
-lastUpdated: 2025-11-24T23:14:02.713Z
+responseTime: 464
+lastUpdated: 2025-11-25T23:13:49.451Z
 startTime: 2025-11-24T08:14:12.637Z
 generator: Upptime <https://github.com/upptime/upptime>
