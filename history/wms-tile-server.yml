@@ -1,7 +1,7 @@
 url: https://wms.routechoices.com/?service=WMS&request=GetMap&layers=fhDbzlQSLho&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&width=512&height=512&srs=EPSG%3A3857&bbox=2641663.6975356913,8727274.141488286,2661231.576776697,8746842.020729292
 status: up
 code: 200
-responseTime: 520
-lastUpdated: 2026-02-01T23:19:21.187Z
+responseTime: 569
+lastUpdated: 2026-02-02T23:22:13.268Z
 startTime: 2025-04-21T05:53:17.266Z
 generator: Upptime <https://github.com/upptime/upptime>
