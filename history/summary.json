@@ -62,17 +62,17 @@
     "url": "https://dashboard.routechoices.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.routechoices.com.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "95.92%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 679,
-    "timeDay": 710,
-    "timeWeek": 627,
-    "timeMonth": 644,
-    "timeYear": 679,
+    "time": 713,
+    "timeDay": 1638,
+    "timeWeek": 1031,
+    "timeMonth": 792,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2026-04-30": 54,
       "2026-04-29": 5,
@@ -91,7 +91,7 @@
     "slug": "rest-api",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "73.36%",
+    "uptimeDay": "73.43%",
     "uptimeWeek": "81.64%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "99.11%",
@@ -173,9 +173,9 @@
     "slug": "trackers-tcp-server",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 146,
     "timeDay": 133,
@@ -183,7 +183,7 @@
     "timeMonth": 138,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2026-04-30": 68
+      "2026-04-30": 69
     }
   }
 ]
