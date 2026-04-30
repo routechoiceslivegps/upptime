@@ -63,9 +63,9 @@
     "slug": "dashboard",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 679,
     "timeDay": 710,
@@ -73,7 +73,7 @@
     "timeMonth": 644,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2026-04-30": 8,
+      "2026-04-30": 12,
       "2026-04-29": 5,
       "2026-04-28": 5,
       "2026-02-25": 7,
@@ -91,8 +91,8 @@
     "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "73.35%",
-    "uptimeWeek": "82.10%",
-    "uptimeMonth": "95.88%",
+    "uptimeWeek": "82.05%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.13%",
     "time": 775,
     "timeDay": 796,
@@ -100,7 +100,7 @@
     "timeMonth": 818,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2026-04-30": 7,
+      "2026-04-30": 12,
       "2026-04-29": 1155,
       "2026-04-28": 642,
       "2026-02-25": 10,
@@ -118,10 +118,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wms.routechoices.com.ico",
     "slug": "wms-tile-server",
     "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "96.97%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "96.90%",
     "time": 798,
     "timeDay": 686,
@@ -129,7 +129,7 @@
     "timeMonth": 645,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2026-04-30": 0,
+      "2026-04-30": 20,
       "2026-04-29": 5,
       "2026-02-27": 1,
       "2026-02-25": 5,
@@ -170,9 +170,9 @@
     "url": "routechoices.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trackers-tcp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +181,8 @@
     "timeWeek": 137,
     "timeMonth": 138,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-30": 0
+    }
   }
 ]
